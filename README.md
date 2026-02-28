@@ -1,24 +1,84 @@
-👋 Hi, I'm Fariha Tamboli
-Robotics & AI engineer focused on machine learning systems, quantitative modeling, and production-grade software.
-Currently interested in:
-Quantitative research & trading infrastructure
-ML systems & model deployment
-Backend engineering for data-heavy applications
-🚀 Featured Projects
-📈 Quant Research Engine
-Backtesting framework with factor modeling, portfolio construction, and risk analytics.
-Tech: Python, NumPy, Pandas, vectorized simulation
-🤖 Deep Learning Model (CIS 522)
-Neural network built in PyTorch with full training pipeline and evaluation metrics.
-🧠 Brain-Computer Interface Signal Processing
-End-to-end signal preprocessing, feature engineering, and model classification.
-🗄 Data Engineering Pipeline
-ETL workflow converting HDF to SQL with validation and schema enforcement.
-🛠 Technical Stack
-Languages: Python, C++, Java
-ML: PyTorch, TensorFlow, NumPy
-Data: SQL, Spark, Pandas
-Systems: Linux, Git, CI/CD
-📬 Contact
-LinkedIn: [[link](https://www.linkedin.com/in/farihatamboli/)]
-Email: [fariha@tambo.li]
+# 👋 Hi, I’m Fariha Tamboli  
+
+## Robotics & AI Engineer  
+Focused on machine learning systems, quantitative modeling, and production-grade software.
+
+---
+
+## 🎯 Current Interests
+- Quantitative research & trading infrastructure  
+- ML systems & scalable model deployment  
+- Backend engineering for data-intensive applications  
+
+---
+
+## 🚀 Featured Projects  
+
+### 📈 Quant Research Engine  
+Factor-based backtesting framework with portfolio construction and risk analytics.  
+
+**Highlights**
+- Vectorized simulations for performance efficiency  
+- Multi-factor modeling and signal evaluation  
+- Portfolio optimization and risk metrics  
+
+**Tech:** Python · NumPy · Pandas  
+
+---
+
+### 🤖 Deep Learning Pipeline (CIS 522)  
+End-to-end neural network system built in PyTorch.  
+
+**Highlights**
+- Custom training loop and evaluation metrics  
+- Hyperparameter tuning  
+- Performance benchmarking  
+
+**Tech:** PyTorch · Python  
+
+---
+
+### 🧠 Brain–Computer Interface Signal Processing  
+Full signal processing and classification pipeline for neural data.  
+
+**Highlights**
+- Signal preprocessing and filtering  
+- Feature extraction and dimensionality reduction  
+- ML-based classification  
+
+**Tech:** Python · NumPy · SciPy  
+
+---
+
+### 🗄 Data Engineering Pipeline  
+ETL workflow converting HDF datasets to SQL with validation and schema enforcement.  
+
+**Highlights**
+- Automated validation checks  
+- Schema enforcement  
+- Scalable ingestion design  
+
+**Tech:** Python · SQL  
+
+---
+
+## 🛠 Technical Stack  
+
+**Languages**  
+Python · C++ · Java  
+
+**Machine Learning**  
+PyTorch · TensorFlow · NumPy  
+
+**Data & Engineering**  
+SQL · Spark · Pandas  
+
+**Systems & DevOps**  
+Linux · Git · CI/CD  
+
+---
+
+## 📬 Contact  
+
+- LinkedIn: [Add Link Here]  
+- Email: fariha@tambo.li  
