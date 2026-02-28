@@ -82,3 +82,6 @@ Linux · Git · CI/CD
 
 - LinkedIn: [Fariha Tamboli ](https://www.linkedin.com/in/farihatamboli/) 
 - Email: fariha@tambo.li  
+
+
+**Generated using GPT-5.2
