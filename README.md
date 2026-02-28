@@ -26,7 +26,7 @@ Factor-based backtesting framework with portfolio construction and risk analytic
 
 ---
 
-### 🤖 Deep Learning Pipeline (CIS 522)  
+### 🤖 Deep Learning Pipeline  
 End-to-end neural network system built in PyTorch.  
 
 **Highlights**
