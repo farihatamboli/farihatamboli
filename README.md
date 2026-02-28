@@ -84,4 +84,4 @@ Linux · Git · CI/CD
 - Email: fariha@tambo.li  
 
 
-**Generated using GPT-5.2
+Generated using GPT-5.2
