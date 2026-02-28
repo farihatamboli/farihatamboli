@@ -80,5 +80,5 @@ Linux · Git · CI/CD
 
 ## 📬 Contact  
 
-- LinkedIn: [Add Link Here]  
+- LinkedIn: [Fariha Tamboli ](https://www.linkedin.com/in/farihatamboli/) 
 - Email: fariha@tambo.li  
